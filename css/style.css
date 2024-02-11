@@ -609,9 +609,9 @@ a {
         padding-bottom: 1rem;
         border-bottom: 1px dotted #333131;
     }
-    .testimonials_left img{
+/*     .testimonials_left img{
         margin-top: 2rem;
-    }
+    } */
 }
 @media(max-width:576px) {
     .testimonials_left img{
