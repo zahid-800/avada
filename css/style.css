@@ -296,13 +296,7 @@ a {
     margin-top: 1rem;
 }
 @media(max-width:991px) {
-    .mobile {
-        display: block;
-    }
-
-    .laptop {
-        display: none;
-    }
+    
 
     .hero_section_left h1 {
         font-size: 40px;
@@ -316,6 +310,13 @@ a {
 @media(max-width:576px) {
     .hero_section_right{
         margin-top: 0rem;
+    }
+    .mobile {
+        display: block;
+    }
+
+    .laptop {
+        display: none;
     }
 }
 
